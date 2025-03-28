@@ -17,5 +17,5 @@ A well-designed portfolio website should be visually appealing, responsive, and 
 
 Beyond just displaying skills, a portfolio website can include blogs, testimonials, and downloadable resumes to further showcase expertise. Regularly updating the portfolio with new projects and achievements keeps it relevant and impactful. In today’s digital world, having a portfolio website is crucial for developers, freelancers, and creative professionals to establish an online presence, attract job opportunities, and build credibility.
 
-
+#output:
 ![Image](https://github.com/user-attachments/assets/71916b18-1486-4c44-8ec9-e6d28bda4a57)
