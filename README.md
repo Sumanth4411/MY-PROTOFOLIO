@@ -16,3 +16,6 @@ A portfolio website is a personal or professional webpage that showcases an indi
 A well-designed portfolio website should be visually appealing, responsive, and easy to navigate. It can be created using HTML, CSS, and JavaScript, with additional frameworks like Bootstrap or Tailwind CSS to enhance styling. Developers often use modern libraries like React.js or Vue.js for a dynamic and interactive experience. A simple yet professional design with a clean layout, smooth transitions, and engaging visuals makes a portfolio stand out. Optimizing the website for mobile devices and fast loading speeds ensures a seamless user experience across different screen sizes.
 
 Beyond just displaying skills, a portfolio website can include blogs, testimonials, and downloadable resumes to further showcase expertise. Regularly updating the portfolio with new projects and achievements keeps it relevant and impactful. In today’s digital world, having a portfolio website is crucial for developers, freelancers, and creative professionals to establish an online presence, attract job opportunities, and build credibility.
+
+
+![Image](https://github.com/user-attachments/assets/71916b18-1486-4c44-8ec9-e6d28bda4a57)
